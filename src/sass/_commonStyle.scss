@@ -1,0 +1,19 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: Roboto, sans-serif;
+}
+
+.btn {
+  height: 30px;
+  width: 100px;
+  // padding: 20px 45px;
+}
